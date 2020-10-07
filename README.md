@@ -94,4 +94,4 @@ Password: 1234
 Email-Id: prajneya3@manager.com 
 Password: 1234
 ```
-*Happy Shopping! :heart: *
+**Happy Shopping! :heart:**
