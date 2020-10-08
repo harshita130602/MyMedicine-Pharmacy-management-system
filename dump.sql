@@ -295,7 +295,7 @@ CREATE TABLE `USER` (
 
 LOCK TABLES `USER` WRITE;
 /*!40000 ALTER TABLE `USER` DISABLE KEYS */;
-INSERT INTO `USER` VALUES ('AD1','Prajneya','Admin','prajneya@admin.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD2','Prajneya','Manager 1','prajneya1@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD3','Prajneya','Manager 2','prajneya2@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD4','Prajneya','Manager 3','prajneya3@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('CU1','Prajneya','Customer','prajneya@customer.com','81dc9bdb52d04dc20036dbd8313ed055');
+INSERT INTO `USER` VALUES ('AD1','Harshita','Admin','harshitaa@admin.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD2','Harshita','Manager 1','harshita1@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD3','Harshita','Manager 2','harshita2@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('AD4','Harshita','Manager 3','harshita3@manager.com','81dc9bdb52d04dc20036dbd8313ed055'),('CU1','Harshita','Customer','harshita@customer.com','81dc9bdb52d04dc20036dbd8313ed055');
 /*!40000 ALTER TABLE `USER` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
