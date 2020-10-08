@@ -73,25 +73,25 @@ The following are some sample credentials for you to login (although you can cre
 
 * Admin
 ```sh
-Email-Id: prajneya@admin.com 
+Email-Id: harshita@admin.com 
 Password: 1234
 ```
 * Customer
 ```sh
-Email-Id: prajneya@customer.com 
+Email-Id: harshita@customer.com 
 Password: 1234
 ```
 * Manager
 ```sh
-Email-Id: prajneya1@manager.com 
+Email-Id: harshita1@manager.com 
 Password: 1234
 ```
 ```sh
-Email-Id: prajneya2@manager.com 
+Email-Id: harshita2@manager.com 
 Password: 1234
 ```
 ```sh
-Email-Id: prajneya3@manager.com 
+Email-Id: harshita3@manager.com 
 Password: 1234
 ```
 # Happy Shopping! :heart:
